@@ -1,6 +1,13 @@
 
 ## Simple Docker Node App
 
+Requires:
+* NodeJS
+* Docker
+* Elasticbeanstalk CLI
+* AWS account
+
+### Creaate Node web app with Dockerfile
 based on these instructions:
 https://nodejs.org/en/docs/guides/nodejs-docker-webapp/
 
